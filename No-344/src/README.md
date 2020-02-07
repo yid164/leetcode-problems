@@ -11,7 +11,7 @@ You may assume all the characters consist of printable ascii characters.
 
  
 
-#####Example 1:
+##### Example 1:
 
 Input: ["h","e","l","l","o"]
 Output: ["o","l","l","e","h"]
